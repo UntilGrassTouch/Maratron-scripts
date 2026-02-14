@@ -39,3 +39,11 @@ I don't know about Python, so I just followed here: https://www.reddit.com/r/Mar
 3. Installing RawAccel (eliminates the X movement of a specific mouse(one on the Maratron))
 It could be bannable, but people say it's safe. Install in here: https://github.com/RawAccelOfficial/rawaccel
 
+# How-to
+
+-mouse preparation
+run Rawaccel
+
+<img width="2086" height="1173" alt="rawaccel" src="https://github.com/user-attachments/assets/ba4e12f1-6071-4a9d-b756-417ee3b714bd" />
+
+test if your maratron mouse only goes up and down.
