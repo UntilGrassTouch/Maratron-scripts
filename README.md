@@ -41,7 +41,7 @@ It could be bannable, but people say it's safe. Install in here: https://github.
 
 # How-to
 
--mouse preparation <br>
+## mouse preparation <br>
 run Rawaccel<br>
 
 <img width="2086" height="1173" alt="rawaccel" src="https://github.com/user-attachments/assets/ba4e12f1-6071-4a9d-b756-417ee3b714bd" />
@@ -49,8 +49,9 @@ run Rawaccel<br>
 test if your maratron mouse only goes up and down.
 <br>
 
--running the script <br>
-BE CAREFUL: when you run the script, your mouse will be locked to only Y.<br>
+## running the script <br>
+BE CAREFUL: when you run the script, your mouse will be locked and won't move on the flat screen. So, MEMORIZE the red letters in the image.<br>
+TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab, tab, to find the script window, then, Ctrl + C, and Ctrl + D. closed. done. <br>
 
 
 <img width="2090" height="1168" alt="idlerun" src="https://github.com/user-attachments/assets/dc2aa8c3-524e-4f52-b673-07b7b314701f" />
