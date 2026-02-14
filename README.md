@@ -61,6 +61,9 @@ Hmd-oriented.<br>
 Sprint method: toggle (not hold) 
 
 ## Running the script <br>
+
+Download: https://github.com/UntilGrassTouch/Maratron-scripts/releases/tag/v1.0 <br>
+
 After you run the game throught steamvr, you can run or stop this script anytime. <br>
 
 BE CAREFUL: when you run the script, your mouse will be locked and won't move on the flat screen. So, MEMORIZE the red letters in the image.<br>
