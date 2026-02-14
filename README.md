@@ -42,7 +42,7 @@ It could be bannable, but people say it's safe. Install in here: https://github.
 # How-to
 
 -mouse preparation <br>
-run Rawaccel
+run Rawaccel<br>
 
 <img width="2086" height="1173" alt="rawaccel" src="https://github.com/user-attachments/assets/ba4e12f1-6071-4a9d-b756-417ee3b714bd" />
 
@@ -50,9 +50,10 @@ test if your maratron mouse only goes up and down.
 <br>
 
 -running the script <br>
+BE CAREFUL: when you run the script, your mouse will be locked to only Y.<br>
 
-<img width="1905" height="1071" alt="idlerun" src="https://github.com/user-attachments/assets/e7d73a4f-905c-436d-a906-139853b4693e" />
 
+<img width="2090" height="1168" alt="idlerun" src="https://github.com/user-attachments/assets/dc2aa8c3-524e-4f52-b673-07b7b314701f" />
 
 
 
