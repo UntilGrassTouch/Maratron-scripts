@@ -50,7 +50,7 @@ run Rawaccel<br>
 test if your maratron mouse only goes up and down.
 <br>
 
-## running the script <br>
+## Running the script <br>
 BE CAREFUL: when you run the script, your mouse will be locked and won't move on the flat screen. So, MEMORIZE the red letters in the image.<br>
 TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab, tab, to find the script window, then, Ctrl + C, and Ctrl + D. closed. done. <br>
 
@@ -58,9 +58,15 @@ TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab
 
 -Brief explanations on what you can change <br>
 
-<img width="2320" height="1295" alt="scriptExp" src="https://github.com/user-attachments/assets/4bcbef29-22a3-43ed-9754-f5545c957209" />
+<img width="2320" height="1298" alt="scriptExp" src="https://github.com/user-attachments/assets/95e64b7b-5ba8-4b67-9a53-5ac07a367193" />
+
+for more changes, just put this in Gemini and it will explain everything.
 
 
+# Future plan
+UEVR version(currently the system is working in .lua)(I will share the scripts when it's done) <br>
+A skyrim mod that can also control the sprint speed, which makes maratron also control the sprint speed. <br>
+etc.
 
 
 
