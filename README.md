@@ -16,7 +16,7 @@ UEVR version is not complete yet.
 
 Features
 1. Walk, run, and sprint. Character will also do the same thing according to your speed.
-2. Look side whild advancing forward(body direction)
+2. Look side while advancing forward(body direction)
 3. You must change the speed in the script if the default one doesn't match your walking stride.
 
 ex) Skyrim
