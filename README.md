@@ -72,7 +72,8 @@ TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab
 <img width="2307" height="1289" alt="scriptExp" src="https://github.com/user-attachments/assets/5c9bde03-a8ee-493a-85de-f49155aba94d" />
 
 
-for more changes, just put this in Gemini and it will explain everything.
+for more changes, just put this in Gemini and it will explain everything.<br>
+Also, remember that DPI of the mouse on the maratron deeply affects sensitivity
 
 
 # Future plan
