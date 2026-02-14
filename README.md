@@ -55,6 +55,11 @@ run Rawaccel<br>
 test if your maratron mouse only goes up and down.
 <br>
 
+## In-game setting
+Make sure your movement speed is at the max(in-game setting in Skyrim).<br>
+Hmd-oriented.<br>
+Sprint method: toggle (not hold) 
+
 ## Running the script <br>
 After you run the game throught steamvr, you can run or stop this script anytime. <br>
 
