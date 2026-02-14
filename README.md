@@ -1,5 +1,5 @@
 # Maratron-scripts
-Disclaimer: I know nothing about Python. AI helped me make this work.
+Disclaimer: I know nothing about Python. AI(mostly Gemini) helped me make this work.
 
 My version of Maratron scripts: walk, run, sprint, and look side while advancing(steamvr required)
 
@@ -13,6 +13,7 @@ original Ideas thanks to Clasted Bheeks on Youtube, and r/MaratronCreatorsClub.
 Features
 1. Walk, run, and sprint. Character will also do the same thing according to your speed.
 2. Look side whild advancing forward(body direction)
+3. You must change the speed in the script if the default one doesn't match your walking stride.
 
 ex) Skyrim
 
@@ -53,8 +54,13 @@ test if your maratron mouse only goes up and down.
 BE CAREFUL: when you run the script, your mouse will be locked and won't move on the flat screen. So, MEMORIZE the red letters in the image.<br>
 TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab, tab, to find the script window, then, Ctrl + C, and Ctrl + D. closed. done. <br>
 
-
 <img width="2090" height="1168" alt="idlerun" src="https://github.com/user-attachments/assets/dc2aa8c3-524e-4f52-b673-07b7b314701f" />
+
+-Brief explanations on what you can change <br>
+
+<img width="2320" height="1295" alt="scriptExp" src="https://github.com/user-attachments/assets/4bcbef29-22a3-43ed-9754-f5545c957209" />
+
+
 
 
 
