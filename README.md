@@ -55,6 +55,8 @@ test if your maratron mouse only goes up and down.
 <br>
 
 ## Running the script <br>
+After you run the game, you can run or stop this script anytime. <br>
+
 BE CAREFUL: when you run the script, your mouse will be locked and won't move on the flat screen. So, MEMORIZE the red letters in the image.<br>
 TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab, tab, to find the script window, then, Ctrl + C, and Ctrl + D. closed. done. <br>
 
