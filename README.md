@@ -1,7 +1,7 @@
 # Maratron-scripts
 Disclaimer: I know nothing about Python. AI helped me make this work.
 
-My version of Maratron scripts: walk, run, sprint, and look side while advancing
+My version of Maratron scripts: walk, run, sprint, and look side while advancing(steamvr required)
 
 original Ideas thanks to Clasted Bheeks on Youtube, and r/MaratronCreatorsClub.
 
@@ -24,13 +24,13 @@ UEVR version is not complete yet, but almost working in some games.
 
 # Why just not use Rewasd or interceptor(explain later)?
 
+anti-cheat matter. Also I want to look side while advancing forward(body direction)(Does Rewasd already have this feature? let me know pls.)
 
 # Requriements and Installing
 
 1. Maratron (mouse based)
 original: https://www.youtube.com/watch?v=HI1uRLpOi9g&t=3s
 my version: https://www.youtube.com/playlist?list=PLcz-0sI4GwNBTiLZFkxNrg_vheGL-_U9J
-
 
 2. Installing Python
 I don't know about Python, so I just followed here: https://www.reddit.com/r/MaratronCreatorsClub/comments/1o8m4dd/how_to_run_a_python_script_for_fer_slers/
