@@ -22,4 +22,20 @@ ex) Skyrim
 UEVR version is not complete yet, but almost working in some games.
 
 
+# Why just not use Rewasd or interceptor(explain later)?
+
+
+# Requriements and Installing
+
+1. Maratron (mouse based)
+original: https://www.youtube.com/watch?v=HI1uRLpOi9g&t=3s
+my version: https://www.youtube.com/playlist?list=PLcz-0sI4GwNBTiLZFkxNrg_vheGL-_U9J
+
+
+2. Installing Python
+I don't know about Python, so I just followed here: https://www.reddit.com/r/MaratronCreatorsClub/comments/1o8m4dd/how_to_run_a_python_script_for_fer_slers/
+, but somehow I run the script differently. I will explain in How-to section.
+
+3. Installing RawAccel (eliminates the X movement of a specific mouse(one on the Maratron))
+It could be bannable, but people say it's safe. Install in here: https://github.com/RawAccelOfficial/rawaccel
 
