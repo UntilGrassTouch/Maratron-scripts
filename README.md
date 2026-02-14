@@ -56,7 +56,7 @@ test if your maratron mouse only goes up and down.
 <br>
 
 ## In-game setting
-Make sure your movement speed is at the max(in-game setting in Skyrim).<br>
+Make sure your movement speed is at the max(in-game setting in Skyrim). -> Maximizes your walk-to-run range <br>
 Hmd-oriented.<br>
 Sprint method: toggle (not hold) 
 
