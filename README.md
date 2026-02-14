@@ -16,8 +16,9 @@ UEVR version is not complete yet.
 
 Features
 1. Walk, run, and sprint. Character will also do the same thing according to your speed.
-2. Look side while advancing forward(body direction)
-3. You must change the speed in the script if the default one doesn't match your walking stride.
+2. Look side while advancing forward(body direction).
+3. Rotate only with Right Stick.
+4. You must change the speed in the script if the default one doesn't match your walking stride.
 
 ex) Skyrim
 
@@ -63,8 +64,8 @@ TO be short: when you want your mouse back(=stopping the script), ALT + TAB, tab
 <img width="2090" height="1168" alt="idlerun" src="https://github.com/user-attachments/assets/dc2aa8c3-524e-4f52-b673-07b7b314701f" />
 
 -Brief explanations on what you can change <br>
+<img width="2307" height="1289" alt="scriptExp" src="https://github.com/user-attachments/assets/5c9bde03-a8ee-493a-85de-f49155aba94d" />
 
-<img width="2320" height="1298" alt="scriptExp" src="https://github.com/user-attachments/assets/95e64b7b-5ba8-4b67-9a53-5ac07a367193" />
 
 for more changes, just put this in Gemini and it will explain everything.
 
