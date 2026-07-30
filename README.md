@@ -42,17 +42,20 @@ my version: https://www.youtube.com/playlist?list=PLcz-0sI4GwNBTiLZFkxNrg_vheGL-
 I don't know about Python, so I just followed here: https://www.reddit.com/r/MaratronCreatorsClub/comments/1o8m4dd/how_to_run_a_python_script_for_fer_slers/  <br>
 , but somehow I run the script differently. I will explain in How-to section.
 
-3. Installing RawAccel (eliminates the X movement of a specific mouse(one on the Maratron)) <br>
-It could be bannable, but people say it's safe. Install in here: https://github.com/RawAccelOfficial/rawaccel
+
+~~3. Installing RawAccel (eliminates the X movement of a specific mouse(one on the Maratron)) <br>
+It could be bannable, but people say it's safe. Install in here: https://github.com/RawAccelOfficial/rawaccel~~
+-> No longer required for V2.0
+
 
 # How-to
 
 ## mouse preparation <br>
-run Rawaccel<br>
+~~run Rawaccel<br>
 
 <img width="2086" height="1173" alt="rawaccel" src="https://github.com/user-attachments/assets/ba4e12f1-6071-4a9d-b756-417ee3b714bd" />
 
-test if your maratron mouse only goes up and down.
+test if your maratron mouse only goes up and down.~~
 <br>
 
 ## In-game setting
