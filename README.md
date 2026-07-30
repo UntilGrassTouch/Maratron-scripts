@@ -51,11 +51,11 @@ It could be bannable, but people say it's safe. Install in here: https://github.
 # How-to
 
 ## mouse preparation <br>
-~~run Rawaccel<br>
-
+~~run Rawaccel<br>~~
+image below no longer required to see for V2.0(releases)
 <img width="2086" height="1173" alt="rawaccel" src="https://github.com/user-attachments/assets/ba4e12f1-6071-4a9d-b756-417ee3b714bd" />
 
-test if your maratron mouse only goes up and down.~~
+~~test if your maratron mouse only goes up and down.~~
 <br>
 
 ## In-game setting
